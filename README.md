@@ -1,2 +1,11 @@
-# Boeing-737-900ER-Research-
-Thermodynamic analysis of a modified nacelle on a cruise flight to increase fuel economy and performance of the Boeing 737-900 with extended range
+# Boeing-737-900ER-Research
+
+# Thermodynamic analysis of a modified nacelle on a cruise flight to increase fuel economy and performance of the Boeing 737-900 with extended range
+
+Caio Lucas de O. Santos, Arthur Ramos Porto, Ruben Alexis M. Carrillo, Carlos Eymel C. Rodríguez,  João Víctor G. Pedrosa, Marcos Paulo V. S. Oliveira, Matheus Pereira Prado, Pedro Henrique Gomes  and  Silas Santos Nepomuceno.
+
+# Abstract:
+The present study concerns a redesign of the nacelle's aerodynamic profile for the Boeing 737-900ER (or B739) to reduce fuel consumption and increase the range factor during cruise flight. For this, an explanation of the technical characteristics of both the approached aircraft and the engine (CFM56-7B27 Turbofan) that compose it was made, besides the standardization that regulates the creation of this modified aerodynamic profile: the NACA 6409. Through a CFD (Computational Fluid Dynamics) simulation it was possible to analyze the performance of the nacelle in each section of the project modified in terms of temperature, flow velocity, pressure and enthalpy of stagnation. In addition, a software was developed in the Python programming language capable of simulating, under the established conditions, the trends in the behavior of the turbofan engine performance parameters and the parameters of the ideal air-standard Brayton cycle analysis. In this sense, one of the characteristics of these trend curves was relevant when describing the thrust specific fuel consumption and the specific thrust, for all bypass values in the used range, as parameters with a practically constant rate of change for the operating range the Mach number (M) on the cruise flight (0.5 ≤ M ≤ 1.0). After all these procedures, through a 21.8% increase in fan output speed when comparing the modified nacelle model with the original one, it was possible to determine other percentage relationships between the results obtained in the two simulations, as an increase of 24.565% in the range factor (equivalent to 7381.7 km) and a 25.257% decrease in thrust specific fuel consumption. These relationships give qualitative relevance to the results, not only because they are testified through similar literature and works, but mainly by creating an opportunity to study, forecast and develop aircraft projects without the need for a prototype, thus generating savings for companies and accessibility to academics and researchers.
+
+Key-words:  Turbofan, Nacelle, Brayton cycle, Thermodynamic, Boeing.
+
